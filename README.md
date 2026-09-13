@@ -240,4 +240,4 @@ This repository serves as the official landing page for Mantis. The software is 
 **Get the most recent version of Mantis today!**
 
 ---
-**Last updated:** 2026-09-13 03:10:45 UTC
+**Last updated:** 2026-09-13 13:39:39 UTC
